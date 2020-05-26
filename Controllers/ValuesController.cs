@@ -4,8 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Mvc;
-using Buildit.Webcrawler.Models;
-namespace Buildit.Webcrawler.Controllers
+using ShipyardTech.Webcrawler.Models;
+namespace ShipyardTech.Webcrawler.Controllers
 {
     [Route("crawl")]
     [ApiController]

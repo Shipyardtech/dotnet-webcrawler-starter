@@ -8,7 +8,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-namespace Buildit.Webcrawler
+namespace ShipyardTech.Webcrawler
 {
     public class Program
     {

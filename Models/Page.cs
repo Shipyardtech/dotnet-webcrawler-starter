@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Mvc;
-namespace Buildit.Webcrawler.Models
+namespace ShipyardTech.Webcrawler.Models
 {
     public class Page
     {

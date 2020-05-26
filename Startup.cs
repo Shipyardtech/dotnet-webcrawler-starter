@@ -12,7 +12,7 @@ using Microsoft.Extensions.Options;
 using Microsoft.Extensions.Hosting;
 
 
-namespace Buildit.Webcrawler
+namespace ShipyardTech.Webcrawler
 {
     public class Startup
     {
